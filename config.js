@@ -1,6 +1,6 @@
 module.exports = {
     app: {
-        token: 'MTA0MDc3NTYzOTM4MjM2NDI2NQ.Gj1yG5.NvSj1Jtm2l5F86kAW09sZNrtMxWFIgYmdlkRdg',
+        token: 'XXX',
         listening: 'Spotify',
         global: true,
         guild: '1040776361800908861'
